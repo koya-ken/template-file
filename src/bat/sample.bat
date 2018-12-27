@@ -1,1 +1,2 @@
 echo THIS IS ${SAMPLE}
+echo THIS IS ESCAPED \${SAMPLE}
